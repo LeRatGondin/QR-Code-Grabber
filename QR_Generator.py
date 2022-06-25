@@ -70,6 +70,9 @@ im1.show()
 im1.save('discord_gift.png', quality=95)
 
 print(f"{Fore.CYAN}Attente de scan{Fore.RESET}")
+print(f"{Fore.CYAN}Fichier enregistré avec le nom [discord_gift.png]{Fore.RESET}")
+print(f"{Fore.RED}Le qrcode ne dure que deux minutes{Fore.RESET}")
+
 print('---')
 while True:
     if "https://discord.com/login" != driver.current_url:
