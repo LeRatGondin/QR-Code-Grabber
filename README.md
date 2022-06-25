@@ -17,9 +17,6 @@ La victime a juste a scanner le qr code avec l'application discord ou avec une a
 
 ![image](https://user-images.githubusercontent.com/44407018/154119668-4ac2d147-92cc-4e79-94a7-595f76ff950f.png)
 
-## Problemes Communs
-Verifiez fichier chromedriver.exe est de la même version que la version actuelle de votre navigateur Web Chrome. Pour vérifier votre version actuelle de Chrome,et telechargez la version correspondante ici  https://chromedriver.chromium.org/downloads
-
 ## Screenshot
 
 ![image](https://user-images.githubusercontent.com/44407018/154120067-40f2ff8d-3c45-4024-9e1c-ad07051bae92.png)
