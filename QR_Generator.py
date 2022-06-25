@@ -11,6 +11,7 @@ from discord_webhook import DiscordWebhook, DiscordEmbed
 import datetime
 from selenium.webdriver.chrome.service import Service
 import lxml
+import chromedriver_binary
 
 colorama.init()
 
