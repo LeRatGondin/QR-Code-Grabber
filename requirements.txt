@@ -6,3 +6,4 @@ requests
 colorama
 discord_webhook
 discord
+chromedriver_binary
